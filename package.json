@@ -1,0 +1,11 @@
+{
+  "name": "arduino with javascript sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "sample.js",
+  "author": "rocky-manobi",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five" : "latest"
+  }
+}
